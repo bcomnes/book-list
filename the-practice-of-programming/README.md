@@ -13,6 +13,8 @@ log:
     completed: 2018-04-21T13:43:13-07:00
 ---
 
+![cover](./cover.jpg)
+
 Lots of sound advice and philosophy on software development fundamentals.
 Very c and c++ centric.
 The collected rules in the back make the whole thing worth it.
